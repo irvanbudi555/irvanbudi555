@@ -7,6 +7,10 @@
     background-color: #777777;
 }
 
+section p {
+    text-align: justify;
+}
+
 section {
     padding-top: 5rem;
 }
